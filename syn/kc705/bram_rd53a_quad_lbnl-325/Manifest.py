@@ -32,7 +32,7 @@ action = "synthesis"
 
 syn_device = "xc7k325" 
 syn_grade = "-2" 
-syn_package = "tfbg676" 
+syn_package = "tffg900" 
 syn_top = "top_level" 
 syn_project = "yarr"
 syn_tool = "vivado"

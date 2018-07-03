@@ -1,4 +1,3 @@
-
 #la06_p
 #la06_n
 set_property PACKAGE_PIN H30 [get_ports {fe_clk_p[0]}]
@@ -54,14 +53,4 @@ set_property IOSTANDARD LVCMOS25 [get_ports {scl_o}]
 set_property IOSTANDARD LVCMOS25 [get_ports {sda_o}]
 set_property IOSTANDARD LVCMOS25 [get_ports {latch_o}]
 set_property IOSTANDARD LVCMOS25 [get_ports {sdi_i}]
-
-
-
-
-
-
-
-
-
-
 
